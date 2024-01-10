@@ -10,7 +10,7 @@ Challenge programme for Beginner to Intermediate developers and designers who wa
 
 ## 💽 Projects:
 
-| DAY | PROJECT |
+| MODULE | PROJECT |
 |----------|----------|
 | 1 | [Angular Introduccion Typescript](https://github.com/marocena26/angular-introduccion-typescript-practise)|
 | 2 | [Angular Bases](https://github.com/marocena26/angular-bases-practise)|
