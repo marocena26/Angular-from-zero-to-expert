@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 Author 
 
-- **Mª Elena Arocena López: [@marocena26](https://github.com/marocena26)**
+- **Elena Arocena: [@marocena26](https://github.com/marocena26)**
 
 ## 👾 Description 
 
@@ -17,9 +17,7 @@ Challenge programme for Beginner to Intermediate developers and designers who wa
 | 3 | [Angular Gifs App](https://github.com/marocena26/angular-gifs-app)|
 | 4 | [Angular Country App](https://github.com/marocena26/angular-country-app/tree/main)|
 | 5 | [Angular Pipes App](https://github.com/marocena26/pipes-app)|
-
-
-
+| 6 | [Angular Life Cycle](https://github.com/marocena26/angular-life-cycle)|
 
 ## ✨ Credits
 
